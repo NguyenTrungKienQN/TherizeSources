@@ -13,13 +13,7 @@
             "bundleIdentifier": "com.therize.fmanager.app",
             "developerName": "Therize",
             "subtitle": "Quản gia tài chính bỏ túi cho mọi gia đình.",
-            "localizedDescription": "Quản lý chi tiêu chưa bao giờ nhàn đến thế! Tạm biệt việc cắm cúi gõ từng con số, Finance Manager mang đến Trợ lý tài chính AI giúp bạn làm chủ ví tiền chỉ với một thao tác chụp ảnh.
-            🚀 TÍNH NĂNG NỔI BẬT:
-            📸 Quét Hóa Đơn Bằng AI: Đưa camera lên là xong! Tự động đọc biên lai, nhận diện số tiền (hỗ trợ cả định dạng 200k, 1.5m) và phân loại luồng tiền trong chớp mắt.
-            🤖 Trợ Lý Chat Đa Nhân Cách: Lần đầu tiên bạn có thể "chat" với ví tiền của mình. Nhận lời khuyên từ Chuyên gia, Mẹ bỉm sữa khắt khe, hay Đứa bạn xéo xắt. (Tặng 5 lượt AI free, hỗ trợ tự nhập Key cá nhân!).
-            🛑 Chống Vung Tay Quá Trán: Thiết lập ngân sách ngày. App sẽ rung và nháy đỏ màn hình cảnh báo ngay khi bạn định tiêu lố.
-            🎮 Cai Nghiện Mua Sắm: Tích lũy chuỗi ngày (streak) nhịn uống trà sữa, nhịn ăn vặt để thu thập huy hiệu. Tiết kiệm vui như chơi game!
-            🔒 Bảo Mật 100%: Dữ liệu nằm gọn trong máy bạn, không tải lên Cloud. Tích hợp khóa Vân tay/Face ID, làm mờ màn hình đa nhiệm và Backup tự chủ.",
+            "localizedDescription": "Quản lý chi tiêu chưa bao giờ nhàn đến thế! Tạm biệt việc cắm cúi gõ từng con số, Finance Manager mang đến Trợ lý tài chính AI giúp bạn làm chủ ví tiền chỉ với một thao tác chụp ảnh.\n🚀 TÍNH NĂNG NỔI BẬT:\n📸 Quét Hóa Đơn Bằng AI: Đưa camera lên là xong! Tự động đọc biên lai, nhận diện số tiền (hỗ trợ cả định dạng 200k, 1.5m) và phân loại luồng tiền trong chớp mắt.\n🤖 Trợ Lý Chat Đa Nhân Cách: Lần đầu tiên bạn có thể \"chat\" với ví tiền của mình. Nhận lời khuyên từ Chuyên gia, Mẹ bỉm sữa khắt khe, hay Đứa bạn xéo xắt. (Tặng 5 lượt AI free, hỗ trợ tự nhập Key cá nhân!).\n🛑 Chống Vung Tay Quá Trán: Thiết lập ngân sách ngày. App sẽ rung và nháy đỏ màn hình cảnh báo ngay khi bạn định tiêu lố.\n🎮 Cai Nghiện Mua Sắm: Tích lũy chuỗi ngày (streak) nhịn uống trà sữa, nhịn ăn vặt để thu thập huy hiệu. Tiết kiệm vui như chơi game!\n🔒 Bảo Mật 100%: Dữ liệu nằm gọn trong máy bạn, không tải lên Cloud. Tích hợp khóa Vân tay/Face ID, làm mờ màn hình đa nhiệm và Backup tự chủ.",
             "iconURL": "https://raw.githubusercontent.com/NguyenTrungKienQN/finance_manager/bdb6df396abfb091ed6bf793d78d2c16e124d631/assets/icon/app_icon.png",
             "tintColor": "#2B554D",
             "category": "utilities",
@@ -28,7 +22,7 @@
                 "https://raw.githubusercontent.com/NguyenTrungKienQN/TherizeSources/a64f4f50e2eb530d522ab812e554175acc2a496f/Screenshot2.png",
                 "https://raw.githubusercontent.com/NguyenTrungKienQN/TherizeSources/a64f4f50e2eb530d522ab812e554175acc2a496f/Screenshot3.png",
                 "https://raw.githubusercontent.com/NguyenTrungKienQN/TherizeSources/a64f4f50e2eb530d522ab812e554175acc2a496f/Screenshot4.png",
-                "https://raw.githubusercontent.com/NguyenTrungKienQN/TherizeSources/a64f4f50e2eb530d522ab812e554175acc2a496f/Screenshot5.png"
+                "https://raw.githubusercontent.com/NguyenTrungKienQN/TherizeSources/a64f4f50e2eb530d522ab812e554175acc2a496f/Screenshot5.png",
                 {
                     "imageURL": "https://raw.githubusercontent.com/NguyenTrungKienQN/TherizeSources/a64f4f50e2eb530d522ab812e554175acc2a496f/landscape.png",
                     "width": 2556,
