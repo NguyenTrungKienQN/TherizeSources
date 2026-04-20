@@ -1,12 +1,10 @@
 {
     "name": "Therize",
+    "identifier": "com.therize.source",
     "subtitle": "All my apps in one place.",
     "description": "Hello:) Welcome to my source!",
     "iconURL": "https://raw.githubusercontent.com/NguyenTrungKienQN/TherizeSources/ec55eccb1896ea3bed4174f93e19c7b8799f252c/iconURL.png",
     "tintColor": "#7E57C2",
-    "featuredApps": [
-        "com.therize.fmanager.app"
-    ],
     "apps": [
         {
             "name": "Finance Manager",
@@ -17,25 +15,20 @@
             "iconURL": "https://raw.githubusercontent.com/NguyenTrungKienQN/finance_manager/bdb6df396abfb091ed6bf793d78d2c16e124d631/assets/icon/app_icon.png",
             "tintColor": "#2B554D",
             "category": "utilities",
-            "screenshots": [
-                "https://raw.githubusercontent.com/NguyenTrungKienQN/TherizeSources/a64f4f50e2eb530d522ab812e554175acc2a496f/Screenshot1.png",
-                "https://raw.githubusercontent.com/NguyenTrungKienQN/TherizeSources/a64f4f50e2eb530d522ab812e554175acc2a496f/Screenshot2.png",
-                "https://raw.githubusercontent.com/NguyenTrungKienQN/TherizeSources/a64f4f50e2eb530d522ab812e554175acc2a496f/Screenshot3.png",
-                "https://raw.githubusercontent.com/NguyenTrungKienQN/TherizeSources/a64f4f50e2eb530d522ab812e554175acc2a496f/Screenshot4.png",
-                "https://raw.githubusercontent.com/NguyenTrungKienQN/TherizeSources/a64f4f50e2eb530d522ab812e554175acc2a496f/Screenshot5.png",
-                {
-                    "imageURL": "https://raw.githubusercontent.com/NguyenTrungKienQN/TherizeSources/a64f4f50e2eb530d522ab812e554175acc2a496f/landscape.png",
-                    "width": 2556,
-                    "height": 1179
-                }
-            ],
             "versions": [
                 {
+                    "version": "1.2.0",
+                    "date": "2026-04-21",
+                    "size": 28450000,
+                    "downloadURL": "https://github.com/NguyenTrungKienQN/finance_manager/releases/download/v1.2.0/iOSRelease.ipa",
+                    "localizedDescription": "Phiên bản ổn định: Sửa lỗi hiển thị UI, cập nhật logic xuất file Excel/PDF chuyên nghiệp và tối ưu hóa phản hồi AI."
+                },
+                {
                     "version": "1.0.0",
-                    "date": "2026-02-24T20:17:00+07:00",
+                    "date": "2026-02-24",
                     "size": 27762764,
                     "downloadURL": "https://github.com/NguyenTrungKienQN/finance_manager/releases/download/v1.0.0/iOSRelease.ipa",
-                    "localizedDescription": "Initial release."
+                    "localizedDescription": "Bản phát hành đầu tiên trên AltStore."
                 }
             ],
             "appPermissions": {
